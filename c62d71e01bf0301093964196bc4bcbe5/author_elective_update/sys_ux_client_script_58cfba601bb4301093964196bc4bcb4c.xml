@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="DELETE">
+        <includes/>
+        <macroponent display_value="Home">aaf33a681b74301093964196bc4bcb79</macroponent>
+        <name>Set list title</name>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[/**
+ * @param {params} params
+ * @param {api} params.api
+ * @param {any} params.event
+ * @param {any} params.imports
+ */
+function handler({api, event, helpers, imports}) {
+    
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-14 09:33:46</sys_created_on>
+        <sys_id>58cfba601bb4301093964196bc4bcb4c</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Set list title</sys_name>
+        <sys_package display_value="Simple ToDO" source="x_650610_simple_0">c62d71e01bf0301093964196bc4bcbe5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Simple ToDO">c62d71e01bf0301093964196bc4bcbe5</sys_scope>
+        <sys_update_name>sys_ux_client_script_58cfba601bb4301093964196bc4bcb4c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-14 09:34:02</sys_updated_on>
+    </sys_ux_client_script>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Simple ToDO">c62d71e01bf0301093964196bc4bcbe5</application>
+        <file_path/>
+        <instance_id>88cb50dddb04c0903050ac44d49619b1</instance_id>
+        <instance_name>dev93605</instance_name>
+        <name>sys_ux_client_script_58cfba601bb4301093964196bc4bcb4c</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_ux_client_script"&gt;&lt;sys_ux_client_script action="INSERT_OR_UPDATE"&gt;&lt;includes/&gt;&lt;macroponent display_value="Home"&gt;aaf33a681b74301093964196bc4bcb79&lt;/macroponent&gt;&lt;name&gt;Set list title&lt;/name&gt;&lt;required_translations&gt;[ ]&lt;/required_translations&gt;&lt;script&gt;&lt;![CDATA[/**
+ * @param {params} params
+ * @param {api} params.api
+ * @param {any} params.event
+ * @param {any} params.imports
+ */
+function handler({api, event, helpers, imports}) {
+    
+}]]&gt;&lt;/script&gt;&lt;script_api_version&gt;2.0.0&lt;/script_api_version&gt;&lt;sys_class_name&gt;sys_ux_client_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-06-14 09:33:46&lt;/sys_created_on&gt;&lt;sys_id&gt;58cfba601bb4301093964196bc4bcb4c&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;Set list title&lt;/sys_name&gt;&lt;sys_package display_value="Simple ToDO" source="x_650610_simple_0"&gt;c62d71e01bf0301093964196bc4bcbe5&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Simple ToDO"&gt;c62d71e01bf0301093964196bc4bcbe5&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ux_client_script_58cfba601bb4301093964196bc4bcb4c&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-06-14 09:34:02&lt;/sys_updated_on&gt;&lt;/sys_ux_client_script&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>229008724</payload_hash>
+        <record_name>Set list title</record_name>
+        <reverted_from/>
+        <source>dbce39e01bf0301093964196bc4bcb3d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-14 09:34:02</sys_created_on>
+        <sys_id>5cdf3a601bb4301093964196bc4bcb98</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17a09deeeac0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-14 09:34:02</sys_updated_on>
+        <type>UX Client Script</type>
+        <update_guid>94df3a600eb43010871c80724e6ce498</update_guid>
+        <update_guid_history>94df3a600eb43010871c80724e6ce498:229008724,54cfba6076b4301013d692e171c6e34f:-448502668</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-14 09:36:09</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_client_script">sys_ux_client_script</sys_db_object>
+        <sys_id>ab959a70d8a746c6ae81f8291d4fffa4</sys_id>
+        <sys_metadata>58cfba601bb4301093964196bc4bcb4c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Set list title</sys_name>
+        <sys_package display_value="Simple ToDO" source="x_650610_simple_0">c62d71e01bf0301093964196bc4bcbe5</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Simple ToDO">c62d71e01bf0301093964196bc4bcbe5</sys_scope>
+        <sys_scope_delete display_value="">1ab12481d40d48f79682ea9865d34f29</sys_scope_delete>
+        <sys_update_name>sys_ux_client_script_58cfba601bb4301093964196bc4bcb4c</sys_update_name>
+        <sys_update_version display_value="sys_ux_client_script_58cfba601bb4301093964196bc4bcb4c">5cdf3a601bb4301093964196bc4bcb98</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-14 09:36:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

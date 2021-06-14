@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_m2m_action_assignment_action_config">
+    <sys_ux_m2m_action_assignment_action_config action="DELETE">
+        <action_assignment display_value="create-new">030581076de620100acb70b35343309c</action_assignment>
+        <action_configuration display_value="Simple ToDo - Actions">ae3d47e81bb4301093964196bc4bcb1c</action_configuration>
+        <sys_class_name>sys_ux_m2m_action_assignment_action_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-14 10:37:17</sys_created_on>
+        <sys_id>7e4ec7e81bb4301093964196bc4bcbb3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Simple ToDO" source="x_650610_simple_0">c62d71e01bf0301093964196bc4bcbe5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Simple ToDO">c62d71e01bf0301093964196bc4bcbe5</sys_scope>
+        <sys_update_name>sys_ux_m2m_action_assignment_action_config_7e4ec7e81bb4301093964196bc4bcbb3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-14 10:37:17</sys_updated_on>
+    </sys_ux_m2m_action_assignment_action_config>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Simple ToDO">c62d71e01bf0301093964196bc4bcbe5</application>
+        <file_path/>
+        <instance_id>88cb50dddb04c0903050ac44d49619b1</instance_id>
+        <instance_name>dev93605</instance_name>
+        <name>sys_ux_m2m_action_assignment_action_config_7e4ec7e81bb4301093964196bc4bcbb3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_m2m_action_assignment_action_config"><sys_ux_m2m_action_assignment_action_config action="INSERT_OR_UPDATE"><action_assignment display_value="create-new">030581076de620100acb70b35343309c</action_assignment><action_configuration display_value="Simple ToDo - Actions">ae3d47e81bb4301093964196bc4bcb1c</action_configuration><sys_class_name>sys_ux_m2m_action_assignment_action_config</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-06-14 10:37:17</sys_created_on><sys_id>7e4ec7e81bb4301093964196bc4bcbb3</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Simple ToDO" source="x_650610_simple_0">c62d71e01bf0301093964196bc4bcbe5</sys_package><sys_policy/><sys_scope display_value="Simple ToDO">c62d71e01bf0301093964196bc4bcbe5</sys_scope><sys_update_name>sys_ux_m2m_action_assignment_action_config_7e4ec7e81bb4301093964196bc4bcbb3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-06-14 10:37:17</sys_updated_on></sys_ux_m2m_action_assignment_action_config></record_update>]]></payload>
+        <payload_hash>-1472388578</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>dbce39e01bf0301093964196bc4bcb3d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-14 10:37:17</sys_created_on>
+        <sys_id>364ec7e81bb4301093964196bc4bcbb6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17a0a18d4960000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-14 10:37:17</sys_updated_on>
+        <type>M2m Action Assig Ux Action Config</type>
+        <update_guid>7e4ec7e80ab43010578ba4cc8f49bbb5</update_guid>
+        <update_guid_history>7e4ec7e80ab43010578ba4cc8f49bbb5:-1472388578</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-14 10:39:50</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_m2m_action_assignment_action_config">sys_ux_m2m_action_assignment_action_config</sys_db_object>
+        <sys_id>450db1c6c7534e4e9f9355c125e80151</sys_id>
+        <sys_metadata>7e4ec7e81bb4301093964196bc4bcbb3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Simple ToDO" source="x_650610_simple_0">c62d71e01bf0301093964196bc4bcbe5</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Simple ToDO">c62d71e01bf0301093964196bc4bcbe5</sys_scope>
+        <sys_scope_delete display_value="">1ab12481d40d48f79682ea9865d34f29</sys_scope_delete>
+        <sys_update_name>sys_ux_m2m_action_assignment_action_config_7e4ec7e81bb4301093964196bc4bcbb3</sys_update_name>
+        <sys_update_version display_value="sys_ux_m2m_action_assignment_action_config_7e4ec7e81bb4301093964196bc4bcbb3">364ec7e81bb4301093964196bc4bcbb6</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-14 10:39:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

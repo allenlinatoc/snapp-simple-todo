@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_screen_type">
+    <sys_ux_screen_type action="DELETE">
+        <description/>
+        <name>Test Workspace</name>
+        <sys_class_name>sys_ux_screen_type</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-14 09:16:51</sys_created_on>
+        <sys_id>a0eb7aac1b74301093964196bc4bcb74</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test Workspace</sys_name>
+        <sys_package display_value="Simple ToDO" source="x_650610_simple_0">c62d71e01bf0301093964196bc4bcbe5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Simple ToDO">c62d71e01bf0301093964196bc4bcbe5</sys_scope>
+        <sys_update_name>sys_ux_screen_type_a0eb7aac1b74301093964196bc4bcb74</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-14 09:16:51</sys_updated_on>
+    </sys_ux_screen_type>
+    <sys_translated_text action="DELETE" query="documentkey=a0eb7aac1b74301093964196bc4bcb74"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Simple ToDO">c62d71e01bf0301093964196bc4bcbe5</application>
+        <file_path/>
+        <instance_id>88cb50dddb04c0903050ac44d49619b1</instance_id>
+        <instance_name>dev93605</instance_name>
+        <name>sys_ux_screen_type_a0eb7aac1b74301093964196bc4bcb74</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_screen_type"><sys_ux_screen_type action="INSERT_OR_UPDATE"><description/><name>Test Workspace</name><sys_class_name>sys_ux_screen_type</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-06-14 09:16:51</sys_created_on><sys_id>a0eb7aac1b74301093964196bc4bcb74</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Test Workspace</sys_name><sys_package display_value="Simple ToDO" source="x_650610_simple_0">c62d71e01bf0301093964196bc4bcbe5</sys_package><sys_policy/><sys_scope display_value="Simple ToDO">c62d71e01bf0301093964196bc4bcbe5</sys_scope><sys_update_name>sys_ux_screen_type_a0eb7aac1b74301093964196bc4bcb74</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-06-14 09:16:51</sys_updated_on></sys_ux_screen_type><sys_translated_text action="delete_multiple" query="documentkey=a0eb7aac1b74301093964196bc4bcb74"/></record_update>]]></payload>
+        <payload_hash>-404113187</payload_hash>
+        <record_name>Test Workspace</record_name>
+        <reverted_from/>
+        <source>dbce39e01bf0301093964196bc4bcb3d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-14 09:16:51</sys_created_on>
+        <sys_id>e0eb7aac1b74301093964196bc4bcb76</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17a09cf313e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-14 09:16:51</sys_updated_on>
+        <type>UX Screen Collection</type>
+        <update_guid>2ceb7aac8574301082faf7df577e5475</update_guid>
+        <update_guid_history>2ceb7aac8574301082faf7df577e5475:-404113187</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-14 09:17:38</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_screen_type">sys_ux_screen_type</sys_db_object>
+        <sys_id>7350a0bd6f044cd590ad0f5e27aa5bd1</sys_id>
+        <sys_metadata>a0eb7aac1b74301093964196bc4bcb74</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test Workspace</sys_name>
+        <sys_package display_value="Simple ToDO" source="x_650610_simple_0">c62d71e01bf0301093964196bc4bcbe5</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Simple ToDO">c62d71e01bf0301093964196bc4bcbe5</sys_scope>
+        <sys_scope_delete display_value="">1ab12481d40d48f79682ea9865d34f29</sys_scope_delete>
+        <sys_update_name>sys_ux_screen_type_a0eb7aac1b74301093964196bc4bcb74</sys_update_name>
+        <sys_update_version display_value="sys_ux_screen_type_a0eb7aac1b74301093964196bc4bcb74">e0eb7aac1b74301093964196bc4bcb76</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-14 09:17:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

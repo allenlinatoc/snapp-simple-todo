@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_list_category">
+    <sys_ux_list_category action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <configuration display_value="Simple To-Do: List menu">9994b2a81b74301093964196bc4bcb7f</configuration>
+        <description/>
+        <order>100</order>
+        <sys_class_name>sys_ux_list_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-14 09:21:48</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c4fcbeec1b74301093964196bc4bcb6f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>To-Do's</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Simple ToDO" source="x_650610_simple_0">c62d71e01bf0301093964196bc4bcbe5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Simple ToDO">c62d71e01bf0301093964196bc4bcbe5</sys_scope>
+        <sys_update_name>sys_ux_list_category_c4fcbeec1b74301093964196bc4bcb6f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-14 09:21:48</sys_updated_on>
+        <title>To-Do's</title>
+    </sys_ux_list_category>
+</record_update>
